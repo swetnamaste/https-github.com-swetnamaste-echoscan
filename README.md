@@ -1,2 +1,5 @@
-# https-github.com-swetnamaste-echoscan
-AI and anomaly detection in text, images, audio and video
+# EchoScan
+
+This repository will host the EchoScan API, an anomaly detection service for text, images, audio, and video.
+
+Stay tuned for full code, deployment instructions, and more!
